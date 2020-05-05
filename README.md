@@ -1,4 +1,4 @@
-# Store-Locater
+# Store-Locator
 A PHP website to locate the nearby stores from a specified location on map.
 
 The project is developed for the course-work of subject 'PHP'.
